@@ -1,3 +1,2 @@
---platform=linux/arm64 ubuntu:noble
---platform=linux/arm64 nginx:latest
---platform=linux/arm64 python:3.12-slim
+--platform=linux/arm64 ghcr.io/ggml-org/llama.cpp:server
+ghcr.io/ggml-org/llama.cpp:server
