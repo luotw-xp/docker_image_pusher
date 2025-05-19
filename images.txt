@@ -1,2 +1,1 @@
---platform=linux/arm64 ghcr.io/ggml-org/llama.cpp:server
-ghcr.io/ggml-org/llama.cpp:server
+gitlab/gitlab-ee:18.0.0-ee.0
