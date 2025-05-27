@@ -1,1 +1,2 @@
-gitlab/gitlab-ee:18.0.0-ee.0
+python:3.10-slim
+--platform=linux/arm64 python:3.10-slim
